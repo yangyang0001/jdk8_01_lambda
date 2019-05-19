@@ -1,0 +1,2 @@
+分组:具体Collectors中的方法
+分区:只能分成true,false两个组的Map
